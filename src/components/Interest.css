@@ -1,0 +1,19 @@
+.interest {
+    padding: 1em 1.5625em 2em;
+    width: 300px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #e4dfdf;
+}
+
+.interest-header {
+    font-size: 1.25rem;
+    letter-spacing: 1;
+}
+
+.interest-text {
+    color: #4a4e71;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    margin: 0;
+    padding-top: 0.625em;
+}
