@@ -2,7 +2,7 @@ import React from "react"
 
 import ProfilePicture from "../assets/Profile-Picture.png"
 import EmailLogo from "../assets/Email-logo.png"
-import LinkedinLogo from "../assets/Linkedin-logo.png"
+import LinkedinLogo from "../assets/LinkedIn-logo.png"
 
 import "./Info.css"
 
